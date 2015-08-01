@@ -4,3 +4,5 @@ Use 'a', 'w', 's', 'd' to control flow of numbers.
 'w' -> up
 's' -> down
 Have fun.
+NOTE : If you want to use on windows than comment line 198, 199, 200 and uncomment line 201. But after doing that you 
+need to press enter after every direction key you press('a','s','d','w').
