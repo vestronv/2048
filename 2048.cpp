@@ -1,6 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
-
+ 
 class game2048{
 	const static int len=4;
 	int board[len][len];
